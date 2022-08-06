@@ -1,6 +1,6 @@
 {
     "name": "@valexe-technologies/lookup.services",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Business Services for Lookup",
     "type": "commonjs",
     "main": "dist/index.js",
@@ -31,7 +31,7 @@
         "typescript": "^4.7.4"
     },
     "dependencies": {
-        "puppeteer": "^15.5.0",
+        "puppeteer": "^16.0.0",
         "user-agents": "^1.0.1089"
     }
 }
